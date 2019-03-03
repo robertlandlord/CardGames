@@ -1,0 +1,3 @@
+C:/Users/rober/Documents/GitHub/CardGames/cmake-build-debug/CMakeFiles/CardGames.dir
+C:/Users/rober/Documents/GitHub/CardGames/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rober/Documents/GitHub/CardGames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
