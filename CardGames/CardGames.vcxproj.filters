@@ -53,5 +53,11 @@
     <ClCompile Include="CardGames.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

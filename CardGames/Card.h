@@ -38,7 +38,7 @@ struct Card {
 
 	const bool isEmpty() const;
 	const string toString() const;
-	const bool Card::operator<(const Card& c) const;
+	const bool operator<(const Card& c) const;
 	const bool operator==(const Card& c) const;
 };
 
